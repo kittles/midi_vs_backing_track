@@ -1,9 +1,9 @@
 # setup
-`git clone `
-`cd midi_vs_backing_track`
-`virtualenv -p python3 .env`
-`source .env/bin/activate`
-`pip install -r requirements.txt`
+- `git clone https://github.com/kittles/midi_vs_backing_track.git`
+- `cd midi_vs_backing_track`
+- `virtualenv -p python3 .env`
+- `source .env/bin/activate`
+- `pip install -r requirements.txt`
 
 alternatively you can install the requirements on your global python3, its just one requirement anyway
 
